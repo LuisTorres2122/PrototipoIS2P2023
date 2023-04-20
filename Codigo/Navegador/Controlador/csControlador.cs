@@ -319,7 +319,7 @@ namespace NavegadorControlador
                     int clave = int.Parse(textbox[0].Text);
 
                     sn.eliminar(clave, campo, tabla.Tag.ToString());
-                    cnseg.setBtitacora(idApp, "Eliminar");
+                   // cnseg.setBtitacora(idApp, "Eliminar");
                     MessageBox.Show("Dato Eliminado");
                     bloquearbotonesGC(botones, true);
                     desactivar(control);
@@ -371,7 +371,7 @@ namespace NavegadorControlador
 
                     sn.insertar(dato, tipo, tabla.Tag.ToString());
                     
-                    cnseg.setBtitacora(idApp, "Guardar");
+                    //cnseg.setBtitacora(idApp, "Guardar");
                     MessageBox.Show("Dato Insertado");
                     bloquearbotonesGC(botones, true);
                     desactivar(control);
@@ -474,7 +474,7 @@ namespace NavegadorControlador
                         }
 
                         sn.actualizar(dato, condicion, tabla.Tag.ToString());
-                        cnseg.setBtitacora(idApp, "Modificar");
+                        //cnseg.setBtitacora(idApp, "Modificar");
                         MessageBox.Show("Dato actualizado");
                         bloquearbotonesGC(botones, true);
                         desactivar(control);

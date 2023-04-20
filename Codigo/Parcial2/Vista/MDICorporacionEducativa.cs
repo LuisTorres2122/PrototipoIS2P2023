@@ -75,7 +75,13 @@ namespace Vista
 
         private void btnProveedor_Click_1(object sender, EventArgs e)
         {
-           
+            //Codigo
+            Alumnos moviminetos = new Alumnos();
+             moviminetos.MdiParent = this;
+             moviminetos.Show();
+
+            //Ocultar submenu
+            hideSubMenu();
         }
 
         private void btnConcepto_Click(object sender, EventArgs e)

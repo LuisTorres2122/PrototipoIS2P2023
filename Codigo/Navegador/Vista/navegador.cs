@@ -62,7 +62,7 @@ namespace NavegadorVista
             cn.llenartablainicio(dtabla.Tag.ToString(), dtabla, text);
             cn.evaluartags(text, dtabla, BD);
             cn.desactivar(actual);
-            bloqStart(botongc);
+           /* bloqStart(botongc);*/
             /*cn.bloqueobtn(botongc);*/
             
 
@@ -135,8 +135,8 @@ namespace NavegadorVista
 
         private void ComponenteNavegador_Load(object sender, EventArgs e)
         {
-            IconButton[] botongc = { btnSave, btnCancelar };
-            cn.bloquearbotonesGC(botongc, true);
+           /* IconButton[] botongc = { btnSave, btnCancelar };
+            cn.bloquearbotonesGC(botongc, true);*/
         }
 
         private void btnNext_Click(object sender, EventArgs e)
@@ -227,7 +227,7 @@ namespace NavegadorVista
                 IconButton[] botongc2 = {btnInsert, btnModificar, btnDelete, btnUpdate, btnConsultar, btnReporte, btnNext,
                 btnBack,btnStart,btnEnd
                 };
-                bloqStart(botongc2);
+               // bloqStart(botongc2);
 
                 //cn.bloquearbotonesGC(botongc, true);
             }
@@ -237,7 +237,7 @@ namespace NavegadorVista
                 IconButton[] botongc2 = {btnInsert, btnModificar, btnDelete, btnUpdate, btnConsultar, btnReporte, btnNext,
                 btnBack,btnStart,btnEnd
                 };
-                bloqStart(botongc2);
+              //  bloqStart(botongc2);
                 // cn.bloquearbotonesGC(botongc, true);
             }
             else if(opcion == 3)
@@ -250,7 +250,7 @@ namespace NavegadorVista
                     IconButton[] botongc2 = {btnInsert, btnModificar, btnDelete, btnUpdate, btnConsultar, btnReporte, btnNext,
                     btnBack,btnStart,btnEnd
                     };
-                    bloqStart(botongc2);
+                //    bloqStart(botongc2);
                     //cn.bloquearbotonesGC(botongc, true);
                 }
                 else if(resultado == DialogResult.No)

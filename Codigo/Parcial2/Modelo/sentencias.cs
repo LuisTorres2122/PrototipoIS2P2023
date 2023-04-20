@@ -152,5 +152,22 @@ namespace Modelo
 
             return datatable;
         }
+
+        public string[] dataa(string id, string linea)
+        {
+            string[] datos = new string[2];
+            string sql = "select usuario, contraseña from usuario  where usuario = '" + id + "' and contraseña = '" + linea + "';";
+            OdbcCommand cmd = new OdbcCommand(sql, con.cconexion());
+            OdbcDataReader lr = cmd.ExecuteReader();
+            while (lr.Read())
+            {
+                datos[0] = lr.GetString(0);
+                datos[1] = lr.GetString(1);
+
+            }
+
+            return datos;
+        }
+
     }
 }
