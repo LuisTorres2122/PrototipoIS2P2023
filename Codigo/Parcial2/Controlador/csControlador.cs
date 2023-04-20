@@ -240,7 +240,11 @@ namespace Controlador
 
         }
 
-
+        public string[] datos(string dato, string dato2)
+        {
+            string[] data = sn.dataa(dato, dato2);
+            return data;
+        }
 
 
 
