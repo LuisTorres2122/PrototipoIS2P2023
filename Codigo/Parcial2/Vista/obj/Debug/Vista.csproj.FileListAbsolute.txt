@@ -24,3 +24,16 @@ T:\Univesidad2.0\9semestre\IS\Parcial2\Github\PrototipoIS2P2023\Codigo\ParcialFi
 T:\Univesidad2.0\9semestre\IS\Parcial2\Github\PrototipoIS2P2023\Codigo\ParcialFinal\Vista\obj\Debug\Vista.csproj.CopyComplete
 T:\Univesidad2.0\9semestre\IS\Parcial2\Github\PrototipoIS2P2023\Codigo\ParcialFinal\Vista\obj\Debug\Vista.dll
 T:\Univesidad2.0\9semestre\IS\Parcial2\Github\PrototipoIS2P2023\Codigo\ParcialFinal\Vista\obj\Debug\Vista.pdb
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\obj\Debug\Vista.csproj.AssemblyReference.cache
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\obj\Debug\Vista.dll
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\obj\Debug\Vista.pdb
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\obj\Debug\Vista.MDICorporacionEducativa.resources
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\bin\Debug\Vista.dll
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\bin\Debug\Vista.pdb
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\bin\Debug\Controlador.dll
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\bin\Debug\Modelo.dll
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\bin\Debug\Controlador.pdb
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\bin\Debug\Modelo.pdb
+T:\Univesidad2.0\9semestre\IS\Nueva carpeta (2)\Codigo\Parcial2\Vista\obj\Debug\Vista.csproj.CopyComplete
